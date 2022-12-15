@@ -1,5 +1,6 @@
 package com.driver;
 
-public class Main {
 
+public class Main {
+   System.out.println("nksjdnkj");
 }
